@@ -12,6 +12,9 @@ The Car Rental Management System is designed to streamline the process of rentin
 
  -  ![Screenshot 2024-06-25 052317](https://github.com/Rawan-AbdElmoneim/Car-Rental-System/assets/142115846/98974370-8069-4a98-86ad-51ce6feedfe1)
 
+ -  ![image](https://github.com/Rawan-AbdElmoneim/Car-Rental-System/assets/142115846/5249afb4-f26d-4889-9601-1f159060c249)
+
+
 
 ### Admin Interface
 
